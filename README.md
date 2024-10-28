@@ -48,7 +48,7 @@ The workers pool uses a linked list structure as a pending queue. I would use ju
 
 ## The Architecture diagram
 <p align="center">
-  <img src="images/image.png">
+  <img src="images/Processor.png">
   <br/>
 </p>
 
