@@ -1,0 +1,6 @@
+github.com/confluentinc/confluent-kafka-go/v2 v2.6.0 h1:VKnMT71Tl0dCp3lfGBp2D8eqQwc+amoDY5EeUgFHDDE=
+github.com/confluentinc/confluent-kafka-go/v2 v2.6.0/go.mod h1:hScqtFIGUI1wqHIgM3mjoqEou4VweGGGX7dMpcUKves=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/igor35hh/scheduler v0.0.0-20241027125821-b4d83c2e1af1 h1:aCq37+KUJlPHMBNM/5eSdCav2Dh+OIIUyCwA3J3tyrU=
+github.com/igor35hh/scheduler v0.0.0-20241027125821-b4d83c2e1af1/go.mod h1:FoVM95fJY37vl7Xd9WIhfNe6/WesDagn2aRMr3cqbbc=
